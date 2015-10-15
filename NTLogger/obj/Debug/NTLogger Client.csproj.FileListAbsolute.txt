@@ -1,0 +1,6 @@
+D:\Programming\C#\NTLogger\NTLogger\bin\Debug\NTLogger.exe.config
+D:\Programming\C#\NTLogger\NTLogger\bin\Debug\NTLogger.exe
+D:\Programming\C#\NTLogger\NTLogger\bin\Debug\NTLogger.pdb
+D:\Programming\C#\NTLogger\NTLogger\obj\Debug\NTLogger Client.csprojResolveAssemblyReference.cache
+D:\Programming\C#\NTLogger\NTLogger\obj\Debug\NTLogger.exe
+D:\Programming\C#\NTLogger\NTLogger\obj\Debug\NTLogger.pdb

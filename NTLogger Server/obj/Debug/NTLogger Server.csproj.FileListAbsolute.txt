@@ -1,0 +1,6 @@
+D:\Programming\C#\NTLogger\NTLogger Server\obj\Debug\NTLogger Server.csprojResolveAssemblyReference.cache
+D:\Programming\C#\NTLogger\NTLogger Server\bin\Debug\WinAKService.exe.config
+D:\Programming\C#\NTLogger\NTLogger Server\bin\Debug\WinAKService.exe
+D:\Programming\C#\NTLogger\NTLogger Server\bin\Debug\WinAKService.pdb
+D:\Programming\C#\NTLogger\NTLogger Server\obj\Debug\WinAKService.exe
+D:\Programming\C#\NTLogger\NTLogger Server\obj\Debug\WinAKService.pdb

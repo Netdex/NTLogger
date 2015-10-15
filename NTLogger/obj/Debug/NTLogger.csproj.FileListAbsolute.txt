@@ -1,0 +1,1 @@
+D:\Programming\C#\NTLogger\NTLogger\bin\Debug\NTLogger.exe.config
